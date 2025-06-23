@@ -21,7 +21,7 @@ SimpleBlog/
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/SimpleBlog.git
+git clone https://github.com/Khwez1/SimpleBlog.git
 cd SimpleBlog
 
 2. Setup the Backend
